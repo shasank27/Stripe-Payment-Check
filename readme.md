@@ -1,1 +1,1 @@
-#Stripe Payment Check
+# Stripe Payment Check
